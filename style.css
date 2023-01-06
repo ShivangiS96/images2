@@ -1,0 +1,25 @@
+body 
+{
+    color:white;
+    background: purple;  
+}
+.heading
+{
+  width: 80%;
+  font-size: 25px;
+}
+#camera
+{
+    border: 4px dotted black;
+    width: 320px;
+    height: 300px;
+}
+.list_of_objects 
+{
+    color:black;
+    background-color:lightgreen;
+}
+#result_object_name , #result_object_accuracy
+{
+    color:white;
+}
